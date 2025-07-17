@@ -1,12 +1,10 @@
   ![Lain Crying](https://media.tenor.com/oa-uWuwCjrgAAAAm/lain-serial-experiments-lain.webp)
 
-https://img.shields.io/archlinux/v/:repository/:architecture/:packageName
 
 # 👋 Welcome to dvskullz
 
 > _“Even monkeys fall from trees.”_  
 
----
 
 ## 🧠 About Me
 
@@ -14,6 +12,8 @@ Hey! I'm Daksh – a passionate creator, constant experimenter, terminal enjoyer
 
  
 &nbsp;&nbsp;&nbsp;&nbsp;AI • Blockchain • Software • Books • Digital Minimalism   
+- 💡 Into: + **Linux (Arch), Vim*  
+
 ✨ **Fun = Projects**  
 
 ---
