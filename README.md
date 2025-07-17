@@ -11,8 +11,8 @@
 Hey! I'm Daksh – a passionate creator, constant experimenter, terminal enjoyer and fearless knowledge-seeker.
 
  
-&nbsp;&nbsp;&nbsp;&nbsp;AI • Blockchain • Software • Books • Digital Minimalism   
-💡 **Into = Linux(Arch-Linux)**   
+&nbsp;&nbsp;&nbsp;&nbsp;• Software • Books • Digital Minimalism   
+💡 **Into = Linux(Arch)**, **Sudo pacman -Syu**   
 
 ✨ **Fun = Projects**  
 
