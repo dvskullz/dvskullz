@@ -1,13 +1,26 @@
-<h1 align="center">Hi 👋, I'm Daksh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Welcome to dvskullz
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dvskullz&label=Profile%20views&color=0e75b6&style=flat" alt="dvskullz" /> </p>
+> _“True heroism is minutes, hours, weeks, year upon year of the quiet, precise, judicious exercise of probity and care—with no one there to see or cheer. This is the world.”_  
+> — **David Foster Wallace**, *The Pale King*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+## 🧠 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dvskullz&show_icons=true&locale=en" alt="dvskullz" /></p>
+Hi! I'm **Daksh** – a curious builder, relentless tinkerer, and unapologetic learner.
+
+🔭 **Currently Building**: [Crox](#crox) – a Lisp interpreter from scratch  
+🤔 **Currently Thinking**: Blockchain in Go (Python is tempting too!)  
+😅 **Currently Procrastinating**: A URL shortener  
+🌱 **Learning**: Machine Learning, one project at a time  
+💡 **Interests**:  
+&nbsp;&nbsp;&nbsp;&nbsp;AI • Blockchain • Software • Books • Poetry • Visual Arts • Decentralized Networks (IRC, Mastodon, Matrix, AT Protocol)  
+✨ **Fun = Projects**  
+
+---
+
+## 💻 Tech Stack
+
+```txt
+C++ | Python | Rust | Go | Java | Lisp
+Linux (Fedora) | Vim
