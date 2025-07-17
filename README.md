@@ -12,7 +12,7 @@ Hey! I'm Daksh – a passionate creator, constant experimenter, terminal enjoyer
 
  
 &nbsp;&nbsp;&nbsp;&nbsp;AI • Blockchain • Software • Books • Digital Minimalism   
-- 💡 Into: + **Linux (Arch), Vim*  
+💡 **Into = Linux(Arch-Linux)**   
 
 ✨ **Fun = Projects**  
 
