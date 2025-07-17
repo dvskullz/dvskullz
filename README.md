@@ -9,9 +9,8 @@
 ## 🧠 About Me
 
 Hey! I'm Daksh – a passionate creator, constant experimenter, terminal enjoyer and fearless knowledge-seeker.
-![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 
- **Into = Arch Linux: nothing more than what you need — everything you want**,   
+![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) **Into = Arch Linux: nothing more than what you need — everything you want**,   
 
  
 &nbsp;&nbsp;&nbsp;&nbsp;• Software • Books • Digital Minimalism   
