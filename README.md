@@ -1,5 +1,6 @@
   ![Lain Crying](https://media.tenor.com/oa-uWuwCjrgAAAAm/lain-serial-experiments-lain.webp)
 
+https://img.shields.io/archlinux/v/:repository/:architecture/:packageName
 
 # 👋 Welcome to dvskullz
 
