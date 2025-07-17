@@ -15,11 +15,7 @@ Hey! I'm Daksh – a passionate creator, constant experimenter, terminal enjoyer
 
 ![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) **: nothing more than what you need — everything you want**. 
 
- 
-&nbsp;&nbsp;&nbsp;&nbsp;• Software • Books • Digital Minimalism   
-
-
-✨ **Fun = Projects**  
+ • Software • Books • Digital Minimalism   
 
 ---
 
@@ -42,3 +38,4 @@ Hey! I'm Daksh – a passionate creator, constant experimenter, terminal enjoyer
 - 🌳 I use the [Forest App](https://www.forestapp.cc/) to stay focused — and I’ve planted **507 trees** so far!  
   ![Trees Planted](https://img.shields.io/badge/Trees_Planted-507-brightgreen?style=flat&logo=tree)
 - 💬 Catch me on **Discord**: `.anowayboy`
+---
