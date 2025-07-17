@@ -8,9 +8,7 @@
 
 Hey! I'm Daksh – a passionate creator, constant experimenter, terminal enjoyer and fearless knowledge-seeker.
 
-😅 **Currently Procrastinating**: A URL shortener  
-🌱 **Learning**: Machine Learning, one project at a time  
-💡 **Interests**:  
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;AI • Blockchain • Software • Books • Digital Minimalism   
 ✨ **Fun = Projects**  
 
@@ -25,3 +23,11 @@ Hey! I'm Daksh – a passionate creator, constant experimenter, terminal enjoyer
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Lisp](https://img.shields.io/badge/Lisp-3B3C36?style=flat)
+
+---
+
+## 🌱 Other Cool Things
+
+- 🌳 I use the [Forest App](https://www.forestapp.cc/) to stay focused — and I’ve planted **507 trees** so far!  
+  ![Trees Planted](https://img.shields.io/badge/Trees_Planted-663-brightgreen?style=flat&logo=tree)
+- 💬 Catch me on **Discord**: `.anowayboy`
