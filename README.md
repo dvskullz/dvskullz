@@ -1,3 +1,6 @@
+  ![Lain Crying](https://media.tenor.com/oa-uWuwCjrgAAAAm/lain-serial-experiments-lain.webp)
+
+
 # 👋 Welcome to dvskullz
 
 > _“Even monkeys fall from trees.”_  
@@ -21,7 +24,6 @@ Hey! I'm Daksh – a passionate creator, constant experimenter, terminal enjoyer
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Lisp](https://img.shields.io/badge/Lisp-3B3C36?style=flat)
 
 ---
