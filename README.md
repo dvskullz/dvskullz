@@ -21,6 +21,14 @@ Hi! I'm **Daksh** – a curious builder, relentless tinkerer, and unapologetic l
 
 ## 💻 Tech Stack
 
-```txt
-C++ | Python | Rust | Go | Java | Lisp
-Linux (Fedora) | Vim
+
+## 🧠 Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Lisp](https://img.shields.io/badge/Lisp-3B3C36?style=flat)
