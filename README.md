@@ -1,7 +1,7 @@
 # 👋 Welcome to dvskullz
 
 > _“Even monkeys fall from trees.”_  
-> — **David Foster Wallace**, *The Pale King*
+> — 
 
 ---
 
