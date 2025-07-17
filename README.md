@@ -2,15 +2,18 @@
 
 
 # 👋 Welcome to dvskullz
-
-> _“Even monkeys fall from trees.”_  
-
+---
+> _“Even monkeys fall from trees.”_
+> I follow bugs like breadcrumbs —
+not to fix them all,
+but to understand the forest they live in
+---
 
 ## 🧠 About Me
 
 Hey! I'm Daksh – a passionate creator, constant experimenter, terminal enjoyer and fearless knowledge-seeker.
 
-![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) **: nothing more than what you need — everything you want**,   
+![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) **: nothing more than what you need — everything you want**. 
 
  
 &nbsp;&nbsp;&nbsp;&nbsp;• Software • Books • Digital Minimalism   
