@@ -1,6 +1,6 @@
 # 👋 Welcome to dvskullz
 
-> _“True heroism is minutes, hours, weeks, year upon year of the quiet, precise, judicious exercise of probity and care—with no one there to see or cheer. This is the world.”_  
+> _“Even monkeys fall from trees.”_  
 > — **David Foster Wallace**, *The Pale King*
 
 ---
@@ -20,9 +20,6 @@ Hi! I'm **Daksh** – a curious builder, relentless tinkerer, and unapologetic l
 ---
 
 ## 💻 Tech Stack
-
-
-## 🧠 Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
