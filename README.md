@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-Hi! I'm **Daksh** – a curious builder, relentless tinkerer, and unapologetic learner.
+Hey! I'm Daksh – a passionate creator, constant experimenter, terminal enjoyer and fearless knowledge-seeker.
 
 😅 **Currently Procrastinating**: A URL shortener  
 🌱 **Learning**: Machine Learning, one project at a time  
