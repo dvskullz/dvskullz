@@ -31,9 +31,8 @@ Hey! I'm Daksh – a passionate creator, constant experimenter, terminal enjoyer
 
 ---
 
-## 🌱 Other Cool Things
+## 🌱 Cool Things
 
 - 🌳 I use the [Forest App](https://www.forestapp.cc/) to stay focused — and I’ve planted **507 trees** so far!  
   ![Trees Planted](https://img.shields.io/badge/Trees_Planted-507-brightgreen?style=flat&logo=tree)
-- 💬 Catch me on **Discord**: `.anowayboy`
 ---
