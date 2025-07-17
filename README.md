@@ -4,9 +4,7 @@
 # 👋 Welcome to dvskullz
 ---
 > _“Even monkeys fall from trees.”_
-> I follow bugs like breadcrumbs —
-not to fix them all,
-but to understand the forest they live in
+
 ---
 
 ## 🧠 About Me
