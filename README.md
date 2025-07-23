@@ -1,4 +1,4 @@
-  ![Lain Crying](https://media.tenor.com/iUA7bmMNVbsAAAPo/uruma-shun.gif) 
+  ![Lain Crying](https://c.tenor.com/iUA7bmMNVbsAAAAC/tenor.gif) 
   
 
 # 👋 Welcome to dvskullz
