@@ -1,4 +1,4 @@
-
+<p align = 'center'>
 <img src = "https://github.com/dvskullz/all-notes/blob/3004614901711cfd74f9085712d84432cdb4b2b4/uruma-shun.gif" width="190" height="360" />
 
 # 👋 Welcome to dvskullz
