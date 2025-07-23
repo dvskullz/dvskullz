@@ -1,5 +1,4 @@
-
-<img src = (https://c.tenor.com/iUA7bmMNVbsAAAAC/tenor.gif) width="400">
+![Lain Crying](https://c.tenor.com/iUA7bmMNVbsAAAAC/tenor.gif)
   
 
 # 👋 Welcome to dvskullz
