@@ -1,4 +1,4 @@
-  ![Lain Crying](https://tenor.com/view/uruma-shun-juujika-no-rokunin-gif-9889970126999868859)
+  ![Lain Crying](https://tenor.com/lWKkAmGGSal.gif)
   
 
 # 👋 Welcome to dvskullz
