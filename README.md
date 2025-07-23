@@ -1,4 +1,4 @@
-  ![Lain Crying](https://media.tenor.com/oa-uWuwCjrgAAAAm/lain-serial-experiments-lain.webp) 
+  ![Lain Crying]((https://tenor.com/lWKkAmGGSal.gif)
   
 
 # 👋 Welcome to dvskullz
