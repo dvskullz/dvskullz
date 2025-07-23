@@ -1,4 +1,4 @@
-  ![Lain Crying](https://media.tenor.com/oa-uWuwCjrgAAAAm/lain-serial-experiments-lain.webp) 
+  ![Lain Crying](https://media.tenor.com/iUA7bmMNVbsAAAPo/uruma-shun.mp4) 
   
 
 # 👋 Welcome to dvskullz
