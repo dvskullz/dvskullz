@@ -1,5 +1,5 @@
-  ![Lain Crying](https://media.tenor.com/oa-uWuwCjrgAAAAm/lain-serial-experiments-lain.webp)
-
+  ![Lain Crying](https://tenor.com/view/uruma-shun-juujika-no-rokunin-gif-9889970126999868859)
+  
 
 # 👋 Welcome to dvskullz
 ---
@@ -33,7 +33,7 @@ Hey! I'm Daksh – a passionate creator, constant experimenter, terminal enjoyer
 
 ## 🌱 Cool Things
 
-- 🌳 I use the [Forest App](https://www.forestapp.cc/) to stay focused — and I’ve planted **520 trees** so far!
+- 🌳 I use the [Forest App](https://www.forestapp.cc/) to stay focused — and I’ve planted **530 trees** so far!
    
-  ![Trees Planted](https://img.shields.io/badge/Trees_Planted-520-brightgreen?style=flat&logo=tree)
+  ![Trees Planted](https://img.shields.io/badge/Trees_Planted-530-brightgreen?style=flat&logo=tree)
 
