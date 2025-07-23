@@ -1,4 +1,4 @@
-  ![Lain Crying](https://tenor.com/lWKkAmGGSal.gif)
+  ![Lain Crying]((https://tenor.com/hNId3cCafOf.gif))
   
 
 # 👋 Welcome to dvskullz
