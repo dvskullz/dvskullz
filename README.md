@@ -1,6 +1,6 @@
 <p align = 'center'>
-<img src = "https://github.com/dvskullz/all-notes/blob/3004614901711cfd74f9085712d84432cdb4b2b4/uruma-shun.gif?raw=true" width="100" height="300" />
-
+[<img src = "https://github.com/dvskullz/dvskullz/blob/abc4e36382a13eb952597f8f5ab1f87f526349fc/uruma-shun.gif" width="100" height="300" />
+]
 # 👋 Welcome to dvskullz
 ---
 > _“Even monkeys fall from trees.”_
