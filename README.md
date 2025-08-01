@@ -1,5 +1,5 @@
 <p align = 'center'>
-<img src = "https://github.com/dvskullz/all-notes/blob/3004614901711cfd74f9085712d84432cdb4b2b4/uruma-shun.gif?raw=true" width="10" height="360" />
+<img src = "https://github.com/dvskullz/all-notes/blob/3004614901711cfd74f9085712d84432cdb4b2b4/uruma-shun.gif?raw=true" width="100" height="300" />
 
 # 👋 Welcome to dvskullz
 ---
