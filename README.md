@@ -13,8 +13,7 @@
 Hey! I'm Daksh – a passionate creator, constant experimenter, terminal enjoyer and fearless knowledge-seeker.
 
 ![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) : **nothing more than what you need — everything you want.** 
-<img src ="https://img.icons8.com/?size=100&id=7seppVX8x2nf&format=png&color=000000"
- 
+
  <pre>• Software • Books • Digital Minimalism </pre>  
 
 ---
