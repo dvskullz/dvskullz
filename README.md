@@ -28,6 +28,9 @@ Hey! I'm Daksh – a passionate creator, constant experimenter, terminal enjoyer
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Lisp](https://img.shields.io/badge/Lisp-3B3C36?style=flat)
+![LaTeX](https://img.shields.io/badge/LaTeX)
+
+
 
 
 ---
