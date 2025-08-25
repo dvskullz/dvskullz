@@ -1,7 +1,6 @@
 <p align = 'center'>
 <img src = "https://github.com/dvskullz/dvskullz/blob/abc4e36382a13eb952597f8f5ab1f87f526349fc/uruma-shun.gif" width="150" height="360" />
 
-
  # 👋 Welcome to dvskullz
 ---
 > _“Even monkeys fall from trees.”_
@@ -9,10 +8,14 @@
 ---
 
 ## 🧠 About Me
-<pre>
-Hey! I'm Daksh – a passionate creator, constant experimenter, terminal enjoyer and fearless knowledge-seeker.
+<pre>  
+• Hi, I'm Daksh a developer and technology enthusiast with a strong interest in  problem-solving,
+  and open-source contributions.  
 
- • Software • Books • Digital Minimalism </pre>  
+• I enjoy working in minimal environments, experimenting with new tools, and constantly learning.
+
+• Software • Books • Digital Minimalism  </pre>
+
 ---
 ![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) 
 
