@@ -1,5 +1,4 @@
-<p align = 'center'>
-<img src = "https://github.com/dvskullz/dvskullz/blob/abc4e36382a13eb952597f8f5ab1f87f526349fc/uruma-shun.gif" width="150" height="360" />
+
 
  # 👋 Welcome to dvskullz
 ---
