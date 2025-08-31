@@ -8,8 +8,6 @@
 
 ## 🧠 About Me
 <pre>  
-• Hi, I'm Daksh a developer and technology enthusiast with a strong interest in  problem-solving,
-  and open-source contributions.  
 
 • I enjoy working in minimal environments, experimenting with new tools, and constantly learning.
 
@@ -38,11 +36,5 @@
 
 
 
----
 
-## 🌱 Productivity
-
-I use the [Forest App](https://www.forestapp.cc/) to stay focused and productive — and I’ve planted **626 trees** so far!
-   
-![Forest Trees](https://img.shields.io/badge/Trees%20Planted-626🌳-A8E6A1?style=for-the-badge)
 
