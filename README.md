@@ -7,9 +7,7 @@
 ---
 
 ## 🧠 About Me
-<pre>  
-
-• I enjoy working in minimal environments, experimenting with new tools, and constantly learning.
+<pre>• I enjoy working in minimal environments, experimenting with new tools, and constantly learning.
 
 • Software • Books • Digital Minimalism  </pre>
 
