@@ -26,8 +26,7 @@ I am currently developing **Upon**, a complete project that combines a **robust 
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Tech Stack
 
 <div align="center">
-
-     <p>
+  <p>
     <a href="https://www.typescriptlang.org/" target="_blank">
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
     </a>
