@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <h1>Hello, I’m Daksh 👋</h1>
   <p>
     <strong>Computer Science Student</strong><br/>
@@ -68,6 +68,8 @@ I am currently developing **Upon**, a complete project that combines a **robust 
   <img src="https://streak-stats.demolab.com?user=dvskullz&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF" /><br><br>
 
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=dvskullz" />
+
+  
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=dvskullz&layout=compact&langs_count=8&card_width=320" />
 
   <br><br>
