@@ -78,11 +78,7 @@ I am currently developing **Upon**, a complete project that combines a **robust 
     <!-- RIGHT: Cards -->
     <td valign="top" width="50%" align="center">
 
-      <!-- Repo Card -->
- !--     <img 
-        width="100%"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=glauedson&repo=lembra-plus-note-app&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=4&icon_color=ffffff" 
-      /> -->
+title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=4&icon_color=ffffff" 
       
 
       <br><br>
