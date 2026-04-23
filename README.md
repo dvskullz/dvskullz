@@ -27,7 +27,7 @@
 <h3 align="center">💻 My Daily Driver</h3>
   <img src="https://skillicons.dev/icons?i=arch,linux," /><br>
 <a href="https://i3wm.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/I3_window_manager_logo.svg" height="40" />
+  <img src="https://img.shields.io/badge/i3wm-5294E2?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/2/2f/I3_window_manager_logo.svg&logoColor=white">
 </a>
 
   
