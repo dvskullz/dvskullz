@@ -23,6 +23,14 @@ I am currently developing **Upon**, a complete project that combines a **robust 
 
 ---
 
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) My daily driver 
+
+<div align="center">
+  <p>
+    <img src="https://skillicons.dev/icons?i=arch,linux" />
+  </p>
+---
+
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Tech Stack
 
 <div align="center">
@@ -83,6 +91,12 @@ I am currently developing **Upon**, a complete project that combines a **robust 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dvskullz&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
 
+ <a href="https://github.com/anuraghazra/github-readme-stats"> 
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=dvskullz" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat"> 
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=dvskullz&layout=compact&langs_count=8&card_width=320" />
+    </a>
 
-![](https://komarev.com/ghpvc/?username=dvskullz&color=000000&style=flat-square&label=Profile+Views)
+
 
