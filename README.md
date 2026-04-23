@@ -64,7 +64,7 @@ I am currently developing **Upon**, a complete project that combines a **robust 
 
   
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=dvskullz&layout=compact&langs_count=8&card_width=320" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=dvskullz&layout=compact&bg_color=0D0D0D&title_color=FF0000&text_color=FFFFFF&border_color=FF0000" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=dvskullz&layout=compact&bg_color=0D0D0D&title_color=FF0000&text_color=FFFFFF&border_color=FFFFFF" />
 
   <br><br>
 
