@@ -57,16 +57,19 @@ I am currently developing **Upon**, a complete project that combines a **robust 
 
 ---
 
-## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Contacts
+<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 
 <div align="center">
-  <a href="https://instagram.com/alex_lbnt" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-  </a>
-  <a href="mailto:alexneto510@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-  <a href="https://www.linkedin.com/in/alexandre-lopes-97352b287" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
+  <p>
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,latex,react,tailwindcss" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=bash,python,javascript,typescript,flutter,figma" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,neovim,emacs" />
+  </p>
 </div>
