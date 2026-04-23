@@ -55,6 +55,8 @@ I am currently developing **Upon**, a complete project that combines a **robust 
     
 </div>
 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dvskullz&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
+
 ---
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Languages & Tools I Have Placed My Hands On
 
