@@ -66,10 +66,7 @@ I am currently developing **Upon**, a complete project that combines a **robust 
 
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvskullz&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FFFFFF&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvskullz&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FFFFFF&bg_color=0D0D0D&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvskullz&bg_color=0D0D0D&color=FFFFFF&line=FF0000&point=FFFFFF&area=true&area_color=FF0000&title_color=FF0000" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvskullz&custom_title=My%20Contributions&bg_color=0D0D0D&color=FFFFFF&line=FF0000&point=FFFFFF&area=true&area_color=FF0000&title_color=FF0000&hide_border=true&radius=16" />
-
+ 
 </div>
