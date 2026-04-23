@@ -60,8 +60,7 @@ I am currently developing **Upon**, a complete project that combines a **robust 
 
   <img src="https://streak-stats.demolab.com?user=dvskullz&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF" /><br><br>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dvskullz" />
-
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dvskullz&show_icons=true&bg_color=0D0D0D&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=FFFFFF" />
   
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=dvskullz&layout=compact&bg_color=0D0D0D&title_color=FF0000&text_color=FFFFFF&border_color=FFFFFF" />
 
