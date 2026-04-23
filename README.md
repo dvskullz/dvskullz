@@ -60,35 +60,25 @@ I am currently developing **Upon**, a complete project that combines a **robust 
 ---
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Languages & Tools I Have Placed My Hands On
 
-<table align="center" width="100%">
+<table align="center">
   <tr>
-    <!-- LEFT: Skills -->
-    <td valign="top" width="50%" align="center">
-
-      <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,latex,react,tailwindcss" /><br><br>
-
-      <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion" /><br><br>
-
-      <img src="https://skillicons.dev/icons?i=bash,python,javascript,typescript,flutter,figma" /><br><br>
-
+    <!-- Skills Left -->
+    <td valign="top" width="45%">
+      <img src="./assets/images/Stack.svg">
+      </br>
+      </br>
+      <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,latex,react,tailwindcss" /><<br>
+      <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion" /><br>
+      <img src="https://skillicons.dev/icons?i=bash,python,javascript,typescript,flutter,figma" /><br>
       <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,neovim,emacs" />
-
     </td>
+    <!---->
+    <td valign="top" width="55%">
+      <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=glauedson&repo=lembra-plus-note-app&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
 
-    <!-- RIGHT: Cards -->
-    <td valign="top" width="50%" align="center">
-
-title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=4&icon_color=ffffff" 
-      
-
-      <br><br>
-
-      <!-- Streak Card -->
-      <img 
-        width="100%"
-        src="https://streak-stats.demolab.com?user=dvskullz&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF" 
-      />
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=dvskullz&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
     </td>
   </tr>
 </table>
+
+
