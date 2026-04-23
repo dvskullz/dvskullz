@@ -26,10 +26,6 @@
 
 <h3 align="center">💻 My Daily Driver</h3>
   <img src="https://skillicons.dev/icons?i=arch,linux," /><br>
-<a href="https://i3wm.org/" target="_blank">
-  <img src="https://img.shields.io/badge/i3wm-5294E2?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/2/2f/I3_window_manager_logo.svg&logoColor=white">
-</a>
-
   
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dvskullz" />
