@@ -70,4 +70,6 @@ I am currently developing **Upon**, a complete project that combines a **robust 
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvskullz&bg_color=0D0D0D&color=FFFFFF&line=FF0000&point=FFFFFF&area=true&area_color=FF0000&title_color=FF0000" />
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvskullz&custom_title=My%20Contributions&bg_color=0D0D0D&color=FFFFFF&line=FF0000&point=FFFFFF&area=true&area_color=FF0000&title_color=FF0000&hide_border=true&radius=16" />
+
 </div>
