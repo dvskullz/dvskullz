@@ -29,6 +29,7 @@ I am currently developing **Upon**, a complete project that combines a **robust 
   <p>
     <img src="https://skillicons.dev/icons?i=arch,linux" />
   </p>
+
 ---
 
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Tech Stack
@@ -66,9 +67,8 @@ I am currently developing **Upon**, a complete project that combines a **robust 
     
 </div>
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dvskullz&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
-
 ---
+
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Languages & Tools I Have Placed My Hands On
 
 <div align="center">
@@ -87,16 +87,20 @@ I am currently developing **Upon**, a complete project that combines a **robust 
 </div>
 
 ---
+
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Analytics
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dvskullz&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
 
- <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
       <img height="180" src="https://github-readme-stats.vercel.app/api?username=dvskullz" />
-    </a>
-    <a href="https://github.com/anuraghazra/convoychat"> 
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=dvskullz&layout=compact&langs_count=8&card_width=320" />
-    </a>
+</a>
+<a href="https://github.com/anuraghazra/convoychat"> 
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=dvskullz&layout=compact&langs_count=8&card_width=320" /
+</a>
+
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dvskullz&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
+
 
 
 
