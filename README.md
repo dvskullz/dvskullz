@@ -25,6 +25,7 @@
 </a>
 
 <h3 align="center">💻 My Daily Driver</h3>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=arch,linux," /><br>
   
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
