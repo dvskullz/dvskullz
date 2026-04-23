@@ -1,7 +1,7 @@
 <p align="center">
 
 
-  <img src= "https://github.com/InterCentury/InterCentury/blob/main/gifs/234234234234234%20(2).gif?raw=true" width="100%">
+  <img src= "https://github.com/InterCentury/InterCentury/blob/main/gifs/234234234234234%20(2).gif?raw=true" width="50%">
   
 </p>
 <!-- <div align="center">
@@ -10,10 +10,6 @@
     <strong>Computer Science Student</strong><br/>
     Fullstack Developer • Mobile • UI/UX
   </p>
-
-
-
----
 
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) About me
 
