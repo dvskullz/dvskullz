@@ -34,6 +34,7 @@ I am currently developing **Upon**, a complete project that combines a **robust 
 
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Tech Stack
 
+
 <div align="center">
   <p>
     <a href="https://www.typescriptlang.org/" target="_blank">
@@ -70,6 +71,7 @@ I am currently developing **Upon**, a complete project that combines a **robust 
 ---
 
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Languages & Tools I Have Placed My Hands On
+
 
 <div align="center">
   <p>
