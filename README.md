@@ -60,17 +60,17 @@ I am currently developing **Upon**, a complete project that combines a **robust 
 ---
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Languages & Tools I Have Placed My Hands On
 
-<div align="center">
-  <p>
+<table align="center">
+  <tr>
+    <!-- Skills Left -->
+    <td valign="top" width="45%">
+ 
     <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,latex,react,tailwindcss" />
-  </p>
-  <p>
+
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion" />
-  </p>
-  <p>
+
     <img src="https://skillicons.dev/icons?i=bash,python,javascript,typescript,flutter,figma" />
-  </p>
-  <p>
+
     <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,neovim,emacs" />
-  </p>
-</div>
+
+    </td>
