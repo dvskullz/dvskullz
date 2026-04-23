@@ -56,8 +56,7 @@ I am currently developing **Upon**, a complete project that combines a **robust 
 </div>
 
 ---
-
-<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Languages & Tools I Have Placed My Hands On
 
 <div align="center">
   <p>
