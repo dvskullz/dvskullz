@@ -51,6 +51,9 @@ I am currently developing **Upon**, a complete project that combines a **robust 
     <a href="https://www.java.com/" target="_blank">
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
     </a>
+    <a href="https://www.redux.js.org/" target="_blank">
+    <img src="https://img.shields.io/badge/REDUX-000000?style=flat&logo=redux&logoColor=white">
+    </a>
   </p>
     
 </div>
@@ -80,4 +83,6 @@ I am currently developing **Upon**, a complete project that combines a **robust 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dvskullz&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
 
+
+![](https://komarev.com/ghpvc/?username=dvskullz&color=000000&style=flat-square&label=Profile+Views)
 
