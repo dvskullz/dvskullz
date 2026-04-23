@@ -1,9 +1,9 @@
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,gitlab,react,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion,figma,pycharm" /><br>
-  <img src="https://skillicons.dev/icons?i=bash,arch,python,javascript," /><br>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,neovim,pwsh" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion,figma" /><br>
+  <img src="https://skillicons.dev/icons?i=bash,arch,python,javascript,typescript" /><br>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,neovim,shell" /><br>
 </div>
 
 
