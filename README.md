@@ -1,8 +1,8 @@
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,,react,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-  <img src="https://skillicons.dev/icons?i=c,bash,arch,python,javascript," /><br>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,gitlab,react,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion,figma,pycharm" /><br>
+  <img src="https://skillicons.dev/icons?i=bash,arch,python,javascript," /><br>
   <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,neovim,pwsh" /><br>
 </div>
 
