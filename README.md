@@ -1,15 +1,17 @@
-<div align="center">
+<p align="center">
+
+
+  <img src= "https://github.com/InterCentury/InterCentury/blob/main/gifs/234234234234234%20(2).gif?raw=true" width="100%">
+  
+</p>
+<!-- <div align="center">
   <h1>Hello, I’m Daksh 👋</h1>
   <p>
     <strong>Computer Science Student</strong><br/>
     Fullstack Developer • Mobile • UI/UX
   </p>
 
-  <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=460&lines=Building+ideas;Smooth+mobile+%7C+Robust+backend;Clean+and+scalable+architecture;UX-focused+interfaces" 
-/>
 
-</div>
 
 ---
 
