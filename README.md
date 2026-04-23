@@ -6,11 +6,12 @@
   </p>
 
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=460&lines=Building+ideas;Smooth+mobile+%7C+Robust+backend;Clean+and+scalable+architecture;UX-focused+interfaces" 
-  />
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=460&lines=Building+ideas;Smooth+mobile+%7C+Robust+backend;Clean+and+scalable+architecture;UX-focused+interfaces" 
+/>
+
 </div>
 
-<br/>
+---
 
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) About me
 
@@ -51,32 +52,47 @@ I am currently developing **Upon**, a complete project that combines a **robust 
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
     </a>
   </p>
+    
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvskullz&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true" />
-</div>
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dvskullz&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
 
 ---
-
 ## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Languages & Tools I Have Placed My Hands On
 
-<div align="center">
+<table align="center" width="100%">
+  <tr>
+    <!-- LEFT: Skills -->
+    <td valign="top" width="50%" align="center">
 
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,latex,react,tailwindcss" /><br><br>
+      <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,latex,react,tailwindcss" /><br><br>
 
-<img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion" /><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion" /><br><br>
 
-<img src="https://skillicons.dev/icons?i=bash,python,javascript,typescript,flutter,figma" /><br><br>
+      <img src="https://skillicons.dev/icons?i=bash,python,javascript,typescript,flutter,figma" /><br><br>
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,neovim,emacs" />
+      <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,neovim,emacs" />
 
-</div>
+    </td>
 
-<br/>
+    <!-- RIGHT: Cards -->
+    <td valign="top" width="50%" align="center">
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dvskullz&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=500&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF" />
-</div>
+      <!-- Repo Card -->
+ !--     <img 
+        width="100%"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=glauedson&repo=lembra-plus-note-app&theme=dark&bg_color=FF1001&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=4&icon_color=ffffff" 
+      /> -->
+      
+
+      <br><br>
+
+      <!-- Streak Card -->
+      <img 
+        width="100%"
+        src="https://streak-stats.demolab.com?user=dvskullz&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF" 
+      />
+
+    </td>
+  </tr>
+</table>
