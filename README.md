@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 </a>
 <a href="https://www.java.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white">
 </a>
 
 <h3 align="center">💻 My Daily Driver</h3>
