@@ -11,7 +11,7 @@ I am a **Computer Science student** passionate about turning ideas into **solid,
 
 I work from **back-end to interface**, always prioritizing **clean architecture**, **code organization**, and **user experience**.
 
-I am currently developing **Upon**, a complete project that combines a **robust backend**, **mobile application**, and **well-defined UX**, designed as a real-world market product.
+I am currently developing an app, a complete project that combines a **robust backend**, **mobile application**, and **well-defined UX**, designed as a real-world market product.
 
 ---
 
